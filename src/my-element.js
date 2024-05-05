@@ -34,6 +34,10 @@ export class MyElement extends LitElement {
       <div>
         <h1> Aqui se agrego un h1 para 2do commit en github 
       </div>  
+    
+
+
+      
       <!-- <div>
         <a href="https://vitejs.dev" target="_blank">
           <img src=${viteLogo} class="logo" alt="Vite logo" />
